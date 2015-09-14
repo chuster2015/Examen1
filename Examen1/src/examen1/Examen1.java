@@ -18,7 +18,7 @@ public class Examen1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        JOptionPane.showMessageDialog(null, "Prueba examen 1 ");
+        JOptionPane.showMessageDialog(null, "Holaaa ");
     }
     
 }
